@@ -16,7 +16,7 @@
  
  pip3 install opencv-python 
  
- or 
+ <strong> OR </strong>
  
  pip3 install opencv-python-headless
  
