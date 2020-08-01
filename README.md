@@ -27,3 +27,21 @@
  
  **This command above checks to ensure you installed the following without error**
  
+ 
+ Machine Learning Files(Haar Cascade xml files):
+ 
+ <strong> Pedestrians </strong>:
+ <strong> Cars </strong>:
+ 
+ # Dataset
+ 
+ <b>OpenCV Documentation</b>:
+ 
+ https://docs.opencv.org/2.4/modules/objdetect/doc/cascade_classification.html?highlight=detectmultiscale
+ 
+ <p></p>
+ 
+ <b>Cars Dataset (Cal Tech)</b>:
+ 
+Link: https://www.researchgate.net/figure/Car-dataset-taken-by-Brad-Philip-and-Paul-Updike-California-Institute-of-Technology-It_fig5_267863282
+ 
