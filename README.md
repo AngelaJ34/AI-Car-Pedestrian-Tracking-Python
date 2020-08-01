@@ -1,14 +1,17 @@
 # Overview
 
- AI car &amp; pedestrian tracking in python utilizing computer vision. This program detects people and automotive vechicles using visual input via youtube videos to showcase the ability for the program to distinguish between the two.
+ AI car &amp; pedestrian tracking in python utilizing computer vision. This program detects people and automotive vechicles using visual input based on the youtube videos to showc the programs ability to distinguish between the two. This process starts by first placing the image in a classifier file to identify said object whether it be a person or automotive vechile. This image will then be converted as a black and white photograph so that it is easier to train the program to identify which object it is.
  
- # Instructions for installation
+ 
+ # 1. Instructions for installation
  
  Install the latest version of Python to your operating system of choice before running this program.
  
  Python Website Link: https://www.python.org 
-
-# Packages Required
+ 
+ Please download all image and videos links for this project found in the AI_CAR_TRACK folder
+ 
+# 2. Packages Required
  
  Computer vision package
  
@@ -56,3 +59,6 @@ Motorcycle Dashcam of pedestrians : https://www.youtube.com/watch?v=WriuvU1rXkc
  
 Link: https://www.researchgate.net/figure/Car-dataset-taken-by-Brad-Philip-and-Paul-Updike-California-Institute-of-Technology-It_fig5_267863282
  
+# 3. Run Program Instructions
+
+
