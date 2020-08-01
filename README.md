@@ -21,7 +21,9 @@
  pip3 install opencv-python-headless
  
  
- 2.) Implement computer vision 2 command in terminal: import cv2  
+ 2.) Implement computer vision 2 command in terminal: 
  
- **This above checks to ensure you installed the following without error**
+ import cv2  
+ 
+ **This command above checks to ensure you installed the following without error**
  
