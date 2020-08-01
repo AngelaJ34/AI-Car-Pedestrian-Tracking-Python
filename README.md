@@ -30,8 +30,11 @@
  
 # Machine Learning Files(Haar Cascade xml files)
  
-Pedestrians :
-Cars :
+Pedestrians:
+https://raw.githubusercontent.com/opencv/opencv/master/data/haarcascades/haarcascade_fullbody.xml
+
+Cars:
+https://raw.githubusercontent.com/andrewssobral/vehicle_detection_haarcascades/master/cars.xml
 
 # Video of cars and pedestrians 
 
