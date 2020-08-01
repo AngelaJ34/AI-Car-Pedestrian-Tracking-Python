@@ -28,10 +28,15 @@
  **This command above checks to ensure you installed the following without error**
  
  
- Machine Learning Files(Haar Cascade xml files):
+# Machine Learning Files(Haar Cascade xml files)
  
- <strong> Pedestrians </strong>:
- <strong> Cars </strong>:
+Pedestrians :
+Cars :
+
+# Video of cars and pedestrians 
+
+Tesla Dashcam: https://www.youtube.com/watch?v=d4L1Pte7zVc
+Motorcycle Dashcam of pedestrians : https://www.youtube.com/watch?v=WriuvU1rXkc   **PLEASE SKIP TO THIS TIMESTAMP 0:09**
  
  # Dataset
  
