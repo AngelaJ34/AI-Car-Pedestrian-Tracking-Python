@@ -3,7 +3,7 @@
  AI car &amp; pedestrian tracking in python utilizing computer vision. This program detects people and automotive vechicles using visual input based on the youtube videos to showc the programs ability to distinguish between the two. This process starts by first placing the image in a classifier file to identify said object whether it be a person or automotive vechile. This image will then be converted as a black and white photograph so that it is easier to train the program to identify which object it is.
  
  
- # 1. Instructions for installation
+ # 1. Instructions For Installation
  
  Install the latest version of Python to your operating system of choice before running this program.
  
@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/opencv/opencv/master/data/haarcascades/haarcas
 Cars:
 https://raw.githubusercontent.com/andrewssobral/vehicle_detection_haarcascades/master/cars.xml
 
-# Video of cars and pedestrians 
+# Video of Cars and Pedestrians 
 
 Tesla Dashcam: https://www.youtube.com/watch?v=d4L1Pte7zVc
 
