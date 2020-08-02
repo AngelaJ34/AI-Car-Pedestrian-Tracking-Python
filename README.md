@@ -62,8 +62,14 @@ Link: https://www.researchgate.net/figure/Car-dataset-taken-by-Brad-Philip-and-P
 # 3. Run Program Instructions
 
 1.) Once all necessary files are downloaded, open terminal and change directory into folder
+<p>
 2.) Ensure the proper version of python is running once inside the folder
+<p>
 3.) Then type ls in terminal to ensure you are in the correct directory and can see all files
+<p>
 4.) Uncheck <strong>ONLY ONE</strong> of the videos in the top of the IDE below import cv2
+<p>
 5.) In terminal type in: python3 Car_and_Pedestrian_Tracking.py to run the program
+<p>
 6.) To quit out press control + C  in terminal to stop the program
+<p>
