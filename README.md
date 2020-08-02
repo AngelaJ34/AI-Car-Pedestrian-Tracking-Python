@@ -1,6 +1,6 @@
 # Overview
 
- AI car &amp; pedestrian tracking in python utilizing computer vision. This program detects people and automotive vechicles using visual input based on the youtube videos to showc the programs ability to distinguish between the two. This process starts by first placing the image in a classifier file to identify said object whether it be a person or automotive vechile. This image will then be converted as a black and white photograph so that it is easier to train the program to identify which object it is.
+ AI car &amp; pedestrian tracking in python utilizing computer vision. This program detects people and automotive vechicles using visual input based on the youtube videos to showc the programs ability to distinguish between the two. This process starts by first placing the image in a classifier file to identify said object whether it be a person or automotive vechile. The video file will then be converted as rectangle shapes as either yellow for people and red for cars so the program to identify which object it is.
  
  
  # 1. Instructions For Installation
@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/opencv/opencv/master/data/haarcascades/haarcas
 Cars:
 https://raw.githubusercontent.com/andrewssobral/vehicle_detection_haarcascades/master/cars.xml
 
-# Video of Cars and Pedestrians 
+# Video of Cars and Pedestrians Source
 
 Tesla Dashcam: https://www.youtube.com/watch?v=d4L1Pte7zVc
 
@@ -61,4 +61,9 @@ Link: https://www.researchgate.net/figure/Car-dataset-taken-by-Brad-Philip-and-P
  
 # 3. Run Program Instructions
 
-
+1.) Once all necessary files are downloaded, open terminal and change directory into folder
+2.) Ensure the proper version of python is running once inside the folder
+3.) Then type ls in terminal to ensure you are in the correct directory and can see all files
+4.) Uncheck <strong>ONLY ONE</strong> of the videos in the top of the IDE below import cv2
+5.) In terminal type in: python3 Car_and_Pedestrian_Tracking.py to run the program
+6.) To quit out press control + C  in terminal to stop the program
