@@ -9,7 +9,7 @@
  
  Python Website Link: https://www.python.org 
  
- Please download all image and videos links for this project found in the AI_CAR_TRACK folder
+ Please download all image files and videos links for this project found in the AI_CAR_TRACK folder
  
 # 2. Packages Required
  
@@ -45,7 +45,7 @@ Tesla Dashcam: https://www.youtube.com/watch?v=d4L1Pte7zVc
 
 Motorcycle Dashcam of pedestrians : https://www.youtube.com/watch?v=WriuvU1rXkc   
 
-**PLEASE SKIP TO THIS TIMESTAMP FOR MOTORCYCLE VIDEO ABOVE 0:09**
+**BOTH VIDEO FILES MUST BE DOWNLOADED**
  
  # Dataset
  
