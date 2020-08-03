@@ -9,7 +9,7 @@
  
  Python Website Link: https://www.python.org 
  
- Please download all image files and videos links for this project found in the AI_CAR_TRACK folder
+ Please download all image files and videos links for this project found in the src folder
  
 # 2. Packages Required
  
