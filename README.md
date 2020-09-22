@@ -1,6 +1,6 @@
 # Overview
 
- AI car &amp; pedestrian tracking in python utilizing computer vision rather than lidar due to efficiency. This program detects people and automotive vechicles using visual input based on the youtube videos to showc the programs ability to distinguish between the two. This process starts by first placing the image in a classifier file to identify said object whether it be a person or automotive vechile. The video file will then be converted as rectangle shapes as either yellow for people and red for cars so the program to identify which object it is.
+ AI car &amp; pedestrian tracking in python utilizing computer vision rather than lidar due to efficiency. This program detects people and automotive vechicles using visual input as demonstrated with youtube videos provided below to showcase the programs ability to distinguish between the two. This process starts by first placing the image in a classifier file to identify said object whether it be a person or automotive vehicle. The video file will then be converted as rectangle shapes as either yellow for people and red for cars so the program to identify which object it is.
  
  
  # 1. Instructions For Installation
